@@ -1,0 +1,15 @@
+# Security
+.env
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# OS files
+.DS_Store
+
+# Data 
+data/*.pkl
+data/*.pth
