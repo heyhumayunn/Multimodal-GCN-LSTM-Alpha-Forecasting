@@ -54,5 +54,5 @@ The strategy was rigorously validated using **Walk-Forward Optimization** (Expan
 
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/your-username/nvda-alpha-agent.git](https://github.com/humaayuuun/nvda-alpha-agent.git)
+   git clone [https://github.com/humaayuuun/nvda-alpha-agent.git](https://github.com/humaayuuun/nvda-alpha-agent.git)
    ```
